@@ -79,7 +79,7 @@ This project showcases a comprehensive, end-to-end NLP workflow, demonstrating k
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone [https://github.com/KartikIITH/https://github.com/KartikIITH/Sentiment-Analysis-of-Amazon-Alexa-Reviews-using-NLP-and-Machine-Learning](https://github.com/your-username/your-repository-name.git)
     cd your-repository-name
     ```
 
